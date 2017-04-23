@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculadora-12mob/AppDelegate.swift"
+            timestampString = "514675591.547771"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculadora_12mob.AppDelegate.__deallocating_deinit"
+                  moduleName = "calculadora-12mob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasdomingos/Documents/trampos/app-ios-avaliacao-fiap-master/calculadora-12mob/AppDelegate.swift"
+                  timestampString = "514675591.68597"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculadora_12mob.AppDelegate.init () -&gt; calculadora_12mob.AppDelegate"
+                  moduleName = "calculadora-12mob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasdomingos/Documents/trampos/app-ios-avaliacao-fiap-master/calculadora-12mob/AppDelegate.swift"
+                  timestampString = "514675591.689093"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculadora_12mob.AppDelegate.__allocating_init () -&gt; calculadora_12mob.AppDelegate"
+                  moduleName = "calculadora-12mob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasdomingos/Documents/trampos/app-ios-avaliacao-fiap-master/calculadora-12mob/AppDelegate.swift"
+                  timestampString = "514675591.690502"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "calculadora-12mob"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasdomingos/Documents/trampos/app-ios-avaliacao-fiap-master/calculadora-12mob/AppDelegate.swift"
+                  timestampString = "514675591.691818"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
